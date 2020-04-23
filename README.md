@@ -1,4 +1,4 @@
-# Songplays ETL
+# Songplays ETL (Data Warehouse)
 
 Sparkify, a music streaming startup, has grown their user base and song database and want to move their processes and data onto the cloud. 
 
